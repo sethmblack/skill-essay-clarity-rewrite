@@ -1,10 +1,9 @@
 ---
 name: essay-clarity-rewrite
-description: Transform prose into clear, direct writing using Paul Graham's principles
-  of simplicity and conversational tone.
+description: Transform prose into clear, direct writing using Paul Graham's principles of simplicity and conversational tone.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - essay-clarity-rewrite
